@@ -11,6 +11,8 @@ while True:
     print("3. 곱하기")
     print("4. 나누기")
     print("5. 종료")
+
+    print("충돌 2")
     
     choice = input("원하는 연산을 선택하세요 (1/2/3/4/5): ")
     
